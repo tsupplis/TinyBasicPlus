@@ -11,8 +11,13 @@
 *.la
 *.a
 
+# Editor files
+*.swp
+*~
+
 # misc
 cli/TinyBasicPlus.cpp
 cli/tbp
 notes.txt
+.DS_Store
 
